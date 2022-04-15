@@ -20,4 +20,8 @@ Neste caso só precisamos selecionar as abas com <b> SHIFT </b> e selecionar os 
 
 Outra funcionalidade interessante é preencher de forma automatica tabelas no Excel. Isso poupa muito tempo e ajudará em funções mais complicadas, vamos ver abaixo:
 
+ ![Preenchimento-Atomatico](https://user-images.githubusercontent.com/62472486/163606011-7dbb74e6-1e3d-414d-a081-ec5251611fbb.gif)
+ 
+ Só precisamos da primeira informação, depois selecionar os campos e utilizar o comando <b> CTRL + E </b>
+
 
