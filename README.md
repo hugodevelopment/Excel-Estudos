@@ -27,7 +27,14 @@ Outra funcionalidade interessante é preencher de forma automatica tabelas no Ex
  # 1º Organizando os dados
  
  Uma coisa muito boa de se fazer nos excel e organizar as bases de dados para reunirmos informações relevantes da nossos dados. Como exemplo irei mostrar uma base da dados bagunçada e organizar a segmentação de dados. 
+
+<li> 1º Base da dados sem formatação:
  
+ ![baseDados](https://user-images.githubusercontent.com/62472486/164995285-9d1a5e68-2f9c-4483-9305-2eafeca5780a.gif)
+ 
+ <li> 1º Criando uma tabela e adicionando uma segmentação de dados:
+ 
+   
  
 
 
