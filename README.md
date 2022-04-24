@@ -34,9 +34,10 @@ Outra funcionalidade interessante é preencher de forma automatica tabelas no Ex
  
 <li> <b> 2 º Criando uma tabela e adicionando uma segmentação de dados: </b>
   
+  Com a segmentação de dados podemos gerar filtros para a nossa base de dados.  
+  
   ![segdados](https://user-images.githubusercontent.com/62472486/164995545-5a1a0327-8126-4bd2-89c1-22485a14b069.gif)
   
-Com a segmentação de dados podemos gerar filtros para a nossa base de dados.  
   
 <li> <b> 3º Criando tabelas dinâmicas </b>  
   
