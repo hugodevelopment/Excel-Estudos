@@ -33,6 +33,16 @@ Outra funcionalidade interessante é preencher de forma automatica tabelas no Ex
  ![baseDados](https://user-images.githubusercontent.com/62472486/164995285-9d1a5e68-2f9c-4483-9305-2eafeca5780a.gif)
  
 <li> <b> 2 º Criando uma tabela e adicionando uma segmentação de dados: </b>
+  
+  ![segdados](https://user-images.githubusercontent.com/62472486/164995545-5a1a0327-8126-4bd2-89c1-22485a14b069.gif)
+  
+Com a segmentação de dados podemos gerar filtros para a nossa base de dados.  
+  
+<li> <b> 3º Criando tabelas dinâmicas </b>  
+  
+  Para finalizar podemos criar tabelas dinâmicas que ajudam bastante a filtrar e analisar a base de dados de forma personalizada.
+  
+  ![tabdinamica](https://user-images.githubusercontent.com/62472486/164995631-b1703e1e-dc46-47c9-87ce-db1f34319a2a.gif)
  
    
  
