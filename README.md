@@ -23,5 +23,11 @@ Outra funcionalidade interessante é preencher de forma automatica tabelas no Ex
  ![Preenchimento-Atomatico](https://user-images.githubusercontent.com/62472486/163606011-7dbb74e6-1e3d-414d-a081-ec5251611fbb.gif)
  
  Só precisamos da primeira informação, depois selecionar os campos e utilizar o comando <b> CTRL + E </b>
+ 
+ # 1º Organizando os dados
+ 
+ Uma coisa muito boa de se fazer nos excel e organizar as bases de dados para reunirmos informações relevantes da nossos dados. Como exemplo irei mostrar uma base da dados bagunçada e organizar a segmentação de dados. 
+ 
+ 
 
 
