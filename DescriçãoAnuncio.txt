@@ -1,0 +1,12 @@
+Aula Excel para criação de planilhas
+
+Essas aulas são para quem deseja aprender a criar planilhas do zero ou melhorar conceitos no Excel. Você vai aprender sobre:
+
+1º Fórmulas Básicas
+2º Fórmulas do mercado de trabalho
+3º Produtividade no Excel
+4º Gráficos e visualização de dados
+5º Tabela dinâmica
+6º Criar dashboards
+
+O conteúdo das aulas pode ser definido de acordo com a necessidade do aluno, mas o intuito é no final desenvolvermos um projeto com os conceitos aprendidos.
