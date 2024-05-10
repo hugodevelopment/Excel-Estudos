@@ -1,0 +1,11 @@
+Para fazer power query no excel fazemos da seguinte maneira:
+
+Selecionamos dados e obter dados, nesse caso escolhendo uma outro arquivo de excel com as tabelas necessárias.
+
+Depois realizamos o mesclar das consultas, nesse caso relacionando colunas que ambas tenham o mesmos dados. Não necessariamente precisa ser o mesmo 
+nome, porém deve ser os mesmos dados.
+
+Após isso podemos fazer algumas transformações nos dados, 
+como manipular datas, criar novas colunas e adicionar algumas condições. Finalizando fechando e carregando
+
+
